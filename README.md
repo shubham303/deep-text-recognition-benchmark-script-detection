@@ -1,0 +1,1 @@
+# deep-text-recognition-benchmark-script-detection
